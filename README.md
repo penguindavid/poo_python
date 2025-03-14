@@ -51,7 +51,13 @@ introduccion a la POO en python
     -puedes definir tantos metodos como necesites 
     -puedes definir tantos parametros en el constructor y en los  metodos como necesite.
 
-
+## composicion 
+- consiste en la creacion de nuevas clases a partir de otras clases ya existentes que actuan como elementos compositores de la nueva 
+- las clases existentes seran atributos de la nueva clase 
+- en POO la composicion significa que entre  las dos clases existe una relacion del tipo "tiene un".
+ejemplo
+    - una coordenad en dos dimensiones esta compuesta por dos valores, el valor en el eje de las x y el valor en el eje de las y,esto podria ser una clase. Un cuadrado esta compuesto por cuadro coordenadas que son los cuatro vertices, esto podria ser una clase que esta compuesta por cuatro clases del objeto coordenada.
+    
 
 
 
