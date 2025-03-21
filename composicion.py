@@ -2,8 +2,8 @@
 
 """    - una coordenad en dos dimensiones esta compuesta por dos valores, el valor en el eje de las x y el valor en el eje de las y,esto podria ser una clase. Un cuadrado esta compuesto por cuadro coordenadas que son los cuatro vertices, esto podria ser una clase que esta compuesta por cuatro clases del objeto coordenada."""
 
-# clase coordenada 
 class Coordenada:
+
     # metodo constructor
     def __init__(self, x, y):
         self.X = x 
